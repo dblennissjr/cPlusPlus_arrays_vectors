@@ -1,0 +1,15 @@
+# ninja log v5
+6	610	7275025930135277	CMakeFiles/arrays_vectors.dir/main.cpp.obj	a892057da884b668
+610	748	7275025931457046	arrays_vectors.exe	acdb72acbd4c7efd
+12	525	7275606969234837	CMakeFiles/arrays_vectors.dir/my_vectors.cpp.obj	99a4ecca062cafb5
+3	532	7275609494576764	CMakeFiles/arrays_vectors.dir/my_vectors.cpp.obj	99a4ecca062cafb5
+11	604	7275609495283732	CMakeFiles/arrays_vectors.dir/main.cpp.obj	a892057da884b668
+10	481	7275610008247382	CMakeFiles/arrays_vectors.dir/my_vectors.cpp.obj	99a4ecca062cafb5
+4	510	7275610008528492	CMakeFiles/arrays_vectors.dir/main.cpp.obj	a892057da884b668
+510	653	7275610009916601	arrays_vectors.exe	ebbe70b53c5a0c7d
+4	655	7275610424160077	CMakeFiles/arrays_vectors.dir/my_vectors.cpp.obj	99a4ecca062cafb5
+10	694	7275610424535711	CMakeFiles/arrays_vectors.dir/main.cpp.obj	a892057da884b668
+694	830	7275610425888425	arrays_vectors.exe	ebbe70b53c5a0c7d
+11	635	7275612478363251	CMakeFiles/arrays_vectors.dir/main.cpp.obj	a892057da884b668
+4	638	7275612478383236	CMakeFiles/arrays_vectors.dir/my_vectors.cpp.obj	99a4ecca062cafb5
+638	1167	7275612483549777	arrays_vectors.exe	ebbe70b53c5a0c7d

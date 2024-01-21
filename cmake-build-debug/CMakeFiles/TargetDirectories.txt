@@ -1,0 +1,3 @@
+C:/Users/darre/CLionProjects/Udemy_C++/Section7/arrays&vectors/cmake-build-debug/CMakeFiles/arrays_vectors.dir
+C:/Users/darre/CLionProjects/Udemy_C++/Section7/arrays&vectors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/darre/CLionProjects/Udemy_C++/Section7/arrays&vectors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
